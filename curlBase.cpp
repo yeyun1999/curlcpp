@@ -1,5 +1,3 @@
-
-
 #include "curlBase.h"
 
 curlBase::curlBase(std::string url)
